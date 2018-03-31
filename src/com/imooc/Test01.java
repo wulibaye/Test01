@@ -8,5 +8,6 @@ public class Test01 {
 	InetAddress iddress = InetAddress.getLocalHost();
 	System.out.println("计算机名"+ iddress.getHostName());
 	System.out.println("Ip地址"+ iddress.getHostAddress());
+	// 测试gitHub
 	}
 }
