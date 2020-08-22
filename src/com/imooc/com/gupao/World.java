@@ -8,4 +8,7 @@ package com.imooc.com.gupao;
  * @Date 2020/8/23
  */
 public class World {
+    public void say() {
+        System.out.println("来吧，一起跳舞");
+    }
 }
