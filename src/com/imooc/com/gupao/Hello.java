@@ -9,6 +9,6 @@ package com.imooc.com.gupao;
  */
 public class Hello {
     public String get() {
-        return "hello";
+        return "hello1";
     }
 }
