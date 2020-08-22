@@ -8,4 +8,7 @@ package com.imooc.com.gupao;
  * @Date 2020/8/23
  */
 public class Really {
+    public String see() {
+        return "beautiful";
+    }
 }
