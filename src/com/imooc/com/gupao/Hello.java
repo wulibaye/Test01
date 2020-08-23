@@ -8,7 +8,13 @@ package com.imooc.com.gupao;
  * @Date 2020/8/23
  */
 public class Hello {
-    public String get() {
-        return "hello2";
+
+    public int get() {
+
+        int a = 12;
+        int b = 3;
+        int c = a - b;
+        System.out.println(c);
+        return c;
     }
 }
