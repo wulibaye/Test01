@@ -10,10 +10,10 @@ package com.imooc.com.gupao;
 public class Hello {
 
     public int get() {
-
-        int a = 12;
-        int b = 3;
-        int c = a - b;
+        int c =0;
+        int a = 102;
+        int b = 30;
+        c += (a + b);
         System.out.println(c);
         return c;
     }
