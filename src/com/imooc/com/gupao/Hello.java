@@ -8,6 +8,7 @@ package com.imooc.com.gupao;
  * @Date 2020/8/23
  */
 public class Hello {
+
     public int get() {
 
         int a = 12;

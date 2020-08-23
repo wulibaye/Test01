@@ -11,4 +11,8 @@ public class Really {
     public String see() {
         return "beautiful";
     }
+
+    public void eat() {
+        System.out.println("专心吃饭");
+    }
 }
