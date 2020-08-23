@@ -7,8 +7,8 @@ package com.imooc.com.gupao;
  * @Since 1.0
  * @Date 2020/8/23
  */
-public class Hello {
-    public String get() {
-        return "hello1";
+public class World {
+    public void say() {
+        System.out.println("来吧，一起跳舞");
     }
 }
