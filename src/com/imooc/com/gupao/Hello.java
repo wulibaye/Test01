@@ -12,7 +12,7 @@ public class Hello {
         int c =0;
         int a = 102;
         int b = 30;
-        c += (a + b);
+        c += (a * b);
         System.out.println(c);
         return c;
     }
